@@ -1,0 +1,1 @@
+2026-09-01, v2026.09.01. Created the pin proxy for minting. It now accepts two kinds of credentials, adds a health check that tests the credential, and logs the real cause when pinning fails. Triggered a redeploy on Railway.
